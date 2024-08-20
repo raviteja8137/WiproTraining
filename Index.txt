@@ -1,0 +1,2 @@
+Question: What is Java ?
+Answer:   Java is a high-level, object-oriented Programming Language.
